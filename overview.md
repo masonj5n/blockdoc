@@ -48,9 +48,10 @@ https://web-design-weekly.com/2014/07/09/front-end-security-thing-concerned/
 
 # DevOps/Support
 ### Objective
-
+The objective of the DevOps was to assist the other team to get from inception from to end. This involved tasks such as obtaining licensing information and the vulnerabilities associated with each license, providing research insights, providing computing resources and documentation. 
 
 ### Process
+The licensing information was obtained from every team and we researched the license terms associated with each third-party software. 
 
 
 ### Results

@@ -57,7 +57,7 @@ For the overall documentation, we created a markdown file in the github reposito
 ### Results
 The softwares used by the teams, mainly Reinvent and Reuse included Flask, SQLAlchemy Python DB, Java JDK/JRE Version, Ecdsa Python Library. Flask is BSD-Licensed, which is a three-clause license, that is, user has the freedom to do anything they want with the conditions that the disclaimer and copyright is present and conditions are present as it is. 
 SQLAlchemy Python DB is licensed under MIT. Under the MIT license, the user is allowed to reuse, but the only conditions are to add acopy of the license terms and the copyright notice.
-
+The license of Ecdsa Python Library requires the user to include the copyright notice and permission notice.
 
 
 ### Conclusion

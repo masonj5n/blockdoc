@@ -48,13 +48,16 @@ https://web-design-weekly.com/2014/07/09/front-end-security-thing-concerned/
 
 # DevOps/Support
 ### Objective
-The objective of the DevOps was to assist the other team to get from inception from to end. This involved tasks such as obtaining licensing information and the vulnerabilities associated with each license, providing research insights, providing computing resources and documentation. 
+The objective was to provide licensing information, deliver a project-wide documentation, acquire computing resources and deploy the software.
 
 ### Process
-The licensing information was obtained from every team and we researched the license terms associated with each third-party software. 
-
+The DevOps team was divided into documentation team and the system integration team based on the area of interest of the team members. The documentation team focussed on obtaining licensing information for each software used by the other teams and the license terms were documented. The licensing information mainly consisted of the terms of use or copyright. The system integration team worked on acquiring the computing resources and running the implementation of Reinvent team. Amazon Web Services were used for computing resources.
+For the overall documentation, we created a markdown file in the github repository to document the work done by each team.
 
 ### Results
+The softwares used by the teams, mainly Reinvent and Reuse included Flask, SQLAlchemy Python DB, Java JDK/JRE Version, Ecdsa Python Library. Flask is BSD-Licensed, which is a three-clause license, that is, user has the freedom to do anything they want with the conditions that the disclaimer and copyright is present and conditions are present as it is. 
+SQLAlchemy Python DB is licensed under MIT. Under the MIT license, the user is allowed to reuse, but the only conditions are to add acopy of the license terms and the copyright notice.
+
 
 
 ### Conclusion

@@ -1,5 +1,6 @@
 # Overview
-_Overview of the purpose of the class, introduction of how teams were split_
+The purpose of this class was to create a Blockchain Voting System. Blockchain, which is the underlying technology for cryptocurrency, has become a powerful tool for many applications. Blockchain can be described as a decentralized, distributed ledger which maintains the record of transactions. 
+The key features of Blockchain comprises of having fast, secure transactions without involving intermediate parties and allows anyone in the chain to view the record of transactions. However, the properties of Blockchain are not only applicable to finance sector but it can be beneficial for the government, banks, businesses etc. 
 
 # Reinvent
 ### Objective
@@ -55,16 +56,30 @@ The DevOps team was divided into documentation team and the system integration t
 For the overall documentation, we created a markdown file in the github repository to document the work done by each team.
 
 ### Results
-The softwares used by the teams, mainly Reinvent and Reuse included Flask, SQLAlchemy Python DB, Java JDK/JRE Version, Ecdsa Python Library. Flask is BSD-Licensed, which is a three-clause license, that is, user has the freedom to do anything they want with the conditions that the disclaimer and copyright is present and conditions are present as it is. 
+License Information:
+The softwares used by the teams, mainly Reinvent and Reuse included Flask, SQLAlchemy Python DB, Java JDK/JRE Version, Ecdsa Python Library. 
+Flask is BSD-Licensed, which is a three-clause license, that is, user has the freedom to do anything they want with the conditions that the disclaimer and copyright is present and conditions are present as it is. 
 SQLAlchemy Python DB is licensed under MIT. Under the MIT license, the user is allowed to reuse, but the only conditions are to add acopy of the license terms and the copyright notice.
 The license of Ecdsa Python Library requires the user to include the copyright notice and permission notice.
+Java JRE Version is licensed under Java SE Runtime Environment Binary Code License Agreement.
 
+Computing Resources:
+Amazon Web Services were used for computing resources. This was used to run the implementation of the Reinvent team.
+
+Documentation:
+A github repository was created to develop a project-wide documentation. The idea behind was to provide an overview of the project that the "Rock the Blockchain Vote" so that the students who plan to enroll in this course could get an overall idea of what work was done for this class. 
 
 ### Conclusion
+The DevOps team was able to accomplish the tasks and deliver the documentation, which was the main deliverable for the team. 
 
 ### Supporting Documentation
+This consists of the github links of each team:
+Reinvent:
+Reuse:
+UI:
 
 # Class Conclusion
 
 
 ### Supporting Documentation
+[1] https://blockgeeks.com/guides/blockchain-applications/

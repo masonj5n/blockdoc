@@ -1,6 +1,6 @@
 # Overview
 The purpose of this class was to create a Blockchain Voting System. Blockchain, which is the underlying technology for cryptocurrency, has become a powerful tool for many applications. Blockchain can be described as a decentralized, distributed ledger which maintains the record of transactions. 
-The key features of Blockchain comprises of having fast, secure transactions without involving intermediate parties and allows anyone in the chain to view the record of transactions. However, the properties of Blockchain are not only applicable to finance sector but it can be beneficial for the government, banks, businesses etc. 
+The key features of Blockchain comprises of having fast, secure transactions without involving intermediate parties and allows anyone in the chain to view the record of transactions. However, the properties of Blockchain are not only applicable to finance sector but it can be beneficial for the government, banks, businesses etc. Hence, to develop the voting system we use the Blockchain technology
 
 # Reinvent
 ### Objective
